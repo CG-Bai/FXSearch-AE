@@ -3,6 +3,11 @@
 原生 **64-bit C/Rust AEGP (`.aex`) 插件**，无需任何外部 `.exe`、后台进程、CEP 扩展或安装脚本，直接放入 After Effects 的 `Plug-ins` 目录即可运行。
 
 ---
+## 截图
+
+![FXSearch 添加效果](image/image%2001.png)
+![查找已用效果](image/image%2002.png)
+![设置](image/image%2003.png)
 
 ## 安装方式
 
