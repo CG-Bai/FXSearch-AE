@@ -1,4 +1,4 @@
-# FXSearch (`FXSearch.aex`) · After Effects 原生搜索与已用效果定位插件
+# FXSearch · After Effects 原生搜索与已用效果定位插件
 
 原生 **64-bit C/Rust AEGP (`.aex`) 插件**，无需任何外部 `.exe`、后台进程、CEP 扩展或安装脚本，直接放入 After Effects 的 `Plug-ins` 目录即可运行。
 
